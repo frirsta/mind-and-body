@@ -131,3 +131,8 @@ Bild av Karolina Grabowska: https://www.pexels.com/sv-se/foto/natur-kvinna-frihe
 Bild av Monstera: https://www.pexels.com/sv-se/foto/kvinna-boja-ung-lugn-6311271/
 
 Bild av Anna Shvets: https://www.pexels.com/sv-se/foto/halsosam-kvinna-sport-staende-4482960/
+
+                                    Icon by <a href="https://freeicons.io/profile/101226">Supalerk laipawat</a> on <a href="https://freeicons.io">freeicons.io</a>
+                                                                    Icon by <a href="https://freeicons.io/profile/103766">Satawat Foto Anukul</a> on <a href="https://freeicons.io">freeicons.io</a>
+                                
+Image by rawpixel.com

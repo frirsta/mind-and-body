@@ -111,6 +111,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: #edf8ff;
 }
 
 .text-muted {
@@ -166,6 +167,41 @@ footer {
     height: 400px;
     border-radius: 4px;
 }
+/* about section */
+.about-section{
+    height: 400px;
+}
+/* newsletter */
+.newsletter-section{
+height: 500px;
+}
+.newsletter-text {
+    position: relative;
+    left: 40%;
+    width: 900px;
+    bottom: 50%;
+    transform: translate(-35%, -35%);
+    text-align: center;
+    font-size: 30px;
+}
+
+.background-image{
+    background: url('/assets/images/newsletter_background.jpg') no-repeat center center;
+    height: 500px;
+}
+.newsletter-input{
+    height: 75px;
+    border: none;
+    padding: 10px;
+    width: 400px;
+    border-radius: 4px;
+}
+.subscribe-button{
+    padding: 15px;
+    background-color: lightcoral;
+    color: #fff;
+    border-radius: 4px;
+}
 
 
 @media screen and (max-width: 1448px) {
@@ -216,8 +252,100 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    .trainer {
+
+    /* trainer section */
+    .trainer{
+        width: 40vw;
+        height: 600px;
+    }
+    .trainer-group {
         flex-direction: column;
         align-items: center;
+        width: 40vw;
     }
+    .trainer-image-1 {
+        background: url('/assets/images/trainer-images/susan_miranda.jpg') no-repeat center center;
+    }
+    
+    .trainer-image-2 {
+        background: url('/assets/images/trainer-images/jane_johnson.jpg') no-repeat center center;
+    }
+    
+    .trainer-image-3 {
+        background: url('/assets/images/trainer-images/anna_alfred.jpg') no-repeat center center;
+    }
+    
+    .trainer-image-4 {
+        background: url('/assets/images/trainer-images/maria_ericson.jpg') no-repeat center center;
+    }
+    
+    .trainer-image {
+        width: 40vw;
+        height: 400px;
+        border-radius: 4px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover-text{
+        top: 700px;
+    }
+    .home-title{
+        top: 1vh;
+    font-size: 25px;
+    }
+.home-classes-container{
+    height: 350px;
+    align-items: baseline;
+}
+    .home-classes{
+        height: 300px;
+        text-align: center;
+        width: 32vw;
+        height: 270px;
+    }
+    .home-classes h2 {
+    
+        font-size: 15px;
+    }
+    .home-classes p {
+        font-size: 12px;
+        line-height: 1.1;
+    }
+
+    .classes-link{
+        font-size: 13px;
+    }
+
+    /*  trainer section  */
+    .trainer-section{
+        height: fit-content;
+    }
+    .trainer-container{
+        align-items: center;
+    }
+    .trainer-image{
+        height: 250px;
+    }
+    .trainer-title {
+        top: 0px;
+    }
+    .trainer {
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 10px;
+    }
+.trainer-text{
+
+}
+    .trainer-name{
+        font-size: 15px;
+        margin: 0px;
+    }
+    .trainer-contact{
+        margin: 0px;
+    }
+
 }
