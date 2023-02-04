@@ -299,21 +299,23 @@ height: 500px;
     font-size: 25px;
     }
 .home-classes-container{
-    height: 350px;
+    height: 250px;
     align-items: baseline;
 }
     .home-classes{
-        height: 300px;
         text-align: center;
-        width: 32vw;
-        height: 270px;
+        width: 30vw;
+        height: 200px;
+    }
+    .yoga-image{
+        height: 100px;
     }
     .home-classes h2 {
     
         font-size: 15px;
     }
     .home-classes p {
-        font-size: 12px;
+        font-size: 10px;
         line-height: 1.1;
     }
 
