@@ -113,13 +113,21 @@ Bild av Ketut Subiyanto: https://www.pexels.com/sv-se/foto/kvinna-staende-lyckli
 Icon by <a href="https://freeicons.io/profile/103766">Satawat Foto Anukul</a> on <a href="https://freeicons.io">freeicons.io</a>
                                 
 Icon by <a href="https://freeicons.io/profile/102253">dDara</a> on <a href="https://freeicons.io">freeicons.io</a>
-                                    king , dancer , pose , ii , yoga icon
+king , dancer , pose , ii , yoga icon
                                 
 Icon by <a href="https://freeicons.io/profile/102253">dDara</a> on <a href="https://freeicons.io">freeicons.io</a>
-                                half , boat , pose , yoga icon
+half , boat , pose , yoga icon
 Icon by <a href="https://freeicons.io/profile/102253">dDara</a> on <a href="https://freeicons.io">freeicons.io</a>
-                                head , to , knee , pose , yoga icon
+head , to , knee , pose , yoga icon
 Icon by <a href="https://freeicons.io/profile/102253">dDara</a> on <a href="https://freeicons.io">freeicons.io</a>
-                                eight , angle , pose , yoga icon
+eight , angle , pose , yoga icon
 Icon by <a href="https://freeicons.io/profile/102253">dDara</a> on <a href="https://freeicons.io">freeicons.io</a>
-                                archer , pose , yoga icon
+archer , pose , yoga icon
+
+Bild av SHVETS production: https://www.pexels.com/sv-se/foto/kvinna-kondition-traning-livsstil-6975238/
+
+Bild av Karolina Grabowska: https://www.pexels.com/sv-se/foto/natur-kvinna-frihet-koppla-av-4498313/
+
+Bild av Monstera: https://www.pexels.com/sv-se/foto/kvinna-boja-ung-lugn-6311271/
+
+Bild av Anna Shvets: https://www.pexels.com/sv-se/foto/halsosam-kvinna-sport-staende-4482960/
