@@ -53,6 +53,7 @@ body {}
 }
 
 .cover-text {
+    width: 80vw;
     height: 100%;
     color: #fff;
     position: absolute;
@@ -75,7 +76,9 @@ footer {
     top: 3vh;
 }
 
-.classes-section {}
+.classes-section {
+    margin-top: 30px;
+}
 
 .home-classes-container {
     display: flex;
@@ -122,7 +125,8 @@ footer {
 
 .trainer-title {
     top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
+   
 }
 
 .trainer-container {
@@ -159,7 +163,7 @@ footer {
 
 .trainer-image {
     width: 21vw;
-    height: 400px;
+    height: 300px;
     border-radius: 4px;
 }
 
@@ -243,6 +247,78 @@ footer {
     border-radius: 4px;
     font-size: 16px;
 }
+/* footer */
+.logo{
+    font-size: 30px;
+    text-decoration: none;
+    color: #6c757d;
+}
+.footer-text{
+    text-align: left;
+    font-size: 14px;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+.footer-bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-bottom-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 95%;
+    margin-top: 5px;
+}
+.copyright{
+    color: #6c757d;
+    font-size: 20px;
+}
+
+.horizontal-line{
+    width: 95%;
+    background-color: #6c757d;
+    height: 0.08px;
+    margin: 0 auto;
+}
+
+.social-media{
+
+}
+
+.social-media-container{}
+.footer-links{
+    list-style: none;
+}
+.footer-links {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+   
+    font-size: 40px;
+}
+.footer-links li a{
+    color: #6c757d;
+    margin: 0px 20px;
+}
+.fa-brand{}
+
+.footer-content{}
+.page-links{
+    list-style: none;
+    color: #6c757d;
+}
+.page-item{}
+.page-link{}
+
 
 
 @media screen and (max-width: 1448px) {
@@ -326,6 +402,15 @@ footer {
         background: url(/assets/images/about/about_1024.jpg) no-repeat center;
 
     }
+    /* footer */
+    
+    .copyright{
+        font-size: 15px;
+    }
+    .footer-links{
+        font-size: 30px;
+    }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -424,6 +509,17 @@ footer {
     .newsletter-input {
         width: 300px;
     }
+    /* footer */
+    .copyright{
+        font-size: 13px;
+    }
+    .footer-links{
+        font-size: 17px;
+    }
+    .footer-links li a {
+       
+        margin: 0px 5px;
+    }
 }
 
 @media screen and (max-width: 425px) {
@@ -484,7 +580,7 @@ footer {
 
     .trainer-title {
         top: 0px;
-        padding-bottom: 0px;
+        
     }
 
     .trainer {
@@ -543,6 +639,14 @@ footer {
         padding: 5px 7px;
         font-size: 10px;
     }
+        /* footer */
+        .copyright{
+            font-size: 10px;
+        }
+        .footer-links{
+            font-size: 15px;
+        }
+
 
 }
 
