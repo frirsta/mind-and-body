@@ -136,3 +136,15 @@ Bild av Anna Shvets: https://www.pexels.com/sv-se/foto/halsosam-kvinna-sport-sta
                                                                     Icon by <a href="https://freeicons.io/profile/103766">Satawat Foto Anukul</a> on <a href="https://freeicons.io">freeicons.io</a>
                                 
 Image by rawpixel.com
+
+Bild av Tima Miroshnichenko: https://www.pexels.com/sv-se/foto/kvinna-kondition-traning-livsstil-6582903/
+
+Bild av Tima Miroshnichenko: https://www.pexels.com/sv-se/foto/kvinna-kondition-traning-livsstil-6582903/
+
+Bild av Ketut Subiyanto: https://www.pexels.com/sv-se/foto/kvinnor-kondition-stretcha-halsa-4998813/
+
+Bild av Anna Shvets: https://www.pexels.com/sv-se/foto/halsosam-kvinna-sport-staende-4482960/
+Bild av Monstera: https://www.pexels.com/sv-se/foto/kvinna-boja-ung-lugn-6311271/
+Bild av SHVETS production: https://www.pexels.com/sv-se/foto/kvinna-kondition-traning-livsstil-6975238/
+
+Bild av Karolina Grabowska: https://www.pexels.com/sv-se/foto/natur-kvinna-frihet-koppla-av-4498313/
