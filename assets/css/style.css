@@ -146,19 +146,19 @@ footer {
 .trainer-contact {}
 
 .trainer-image-1 {
-    background: url('/assets/images/trainer-images/susan_miranda_300.jpg') no-repeat center center;
+    background: url('../images/trainer-images/susan_miranda_300.jpg') no-repeat center center;
 }
 
 .trainer-image-2 {
-    background: url('/assets/images/trainer-images/jane_johnson_300.jpg') no-repeat center center;
+    background: url('../images/trainer-images/jane_johnson_300.jpg') no-repeat center center;
 }
 
 .trainer-image-3 {
-    background: url('/assets/images/trainer-images/anna_alfred_300.jpg') no-repeat center center;
+    background: url('../images/trainer-images/anna_alfred_300.jpg') no-repeat center center;
 }
 
 .trainer-image-4 {
-    background: url('/assets/images/trainer-images/maria_ericson_300.jpg') no-repeat center center;
+    background: url('../images/trainer-images/maria_ericson_300.jpg') no-repeat center center;
 }
 
 .trainer-image {
@@ -186,7 +186,7 @@ footer {
 }
 
 .about-image {
-    background: url(/assets/images/about/about.jpg) no-repeat center;
+    background: url('../images/about/about.jpg') no-repeat center;
     height: 400px;
     width: 50%;
     border-radius: 4px;
@@ -212,7 +212,7 @@ footer {
 .newsletter-section {}
 
 .background-image {
-    background: url('/assets/images/newsletter_background.jpg') no-repeat center center;
+    background: url('../images/newsletter_background.jpg') no-repeat center center;
 
 }
 
@@ -323,7 +323,7 @@ footer {
 
 @media screen and (max-width: 1448px) {
     .hero-image {
-        background: url('/assets/images/hero_max_width_1440.jpg') no-repeat center center;
+        background: url('../images/hero_max_width_1440.jpg') no-repeat center center;
 
         width: 100%;
         opacity: 0.7;
@@ -334,7 +334,7 @@ footer {
 
 @media screen and (max-width: 1024px) {
     .hero-image {
-        background: url('/assets/images/hero_1024.jpg') no-repeat center center;
+        background: url('../images/hero_1024.jpg') no-repeat center center;
     }
 
     p {
@@ -361,22 +361,22 @@ footer {
     }
 
     .trainer-image-1 {
-        background: url('/assets/images/trainer-images/susan_miranda_200.jpg') no-repeat center center;
+        background: url('../images/trainer-images/susan_miranda_200.jpg') no-repeat center center;
 
     }
 
     .trainer-image-2 {
-        background: url('/assets/images/trainer-images/jane_johnson_200.jpg') no-repeat center center;
+        background: url('../images/trainer-images/jane_johnson_200.jpg') no-repeat center center;
 
     }
 
     .trainer-image-3 {
-        background: url('/assets/images/trainer-images/anna_alfred_200.jpg') no-repeat center center;
+        background: url('../images/trainer-images/anna_alfred_200.jpg') no-repeat center center;
 
     }
 
     .trainer-image-4 {
-        background: url('/assets/images/trainer-images/maria_ericson_200.jpg') no-repeat center center;
+        background: url('../images/trainer-images/maria_ericson_200.jpg') no-repeat center center;
 
     }
 
@@ -399,7 +399,7 @@ footer {
 
     /* about */
     .about-image {
-        background: url(/assets/images/about/about_1024.jpg) no-repeat center;
+        background: url('../images/about/about_1024.jpg') no-repeat center;
 
     }
     /* footer */
@@ -427,7 +427,7 @@ footer {
     }
 
     .hero-image {
-        background: url('/assets/images/hero_768.jpg') no-repeat center center;
+        background: url('../images/hero_768.jpg') no-repeat center center;
     }
 
     /* classes */
@@ -457,19 +457,19 @@ footer {
     }
 
     .trainer-image-1 {
-        background: url('/assets/images/trainer-images/susan_miranda_100.jpg') no-repeat center center;
+        background: url('../images/trainer-images/susan_miranda_100.jpg') no-repeat center center;
     }
 
     .trainer-image-2 {
-        background: url('/assets/images/trainer-images/jane_johnson_100.jpg') no-repeat center center;
+        background: url('../images/trainer-images/jane_johnson_100.jpg') no-repeat center center;
     }
 
     .trainer-image-3 {
-        background: url('/assets/images/trainer-images/anna_alfred_100.jpg') no-repeat center center;
+        background: url('../images/trainer-images/anna_alfred_100.jpg') no-repeat center center;
     }
 
     .trainer-image-4 {
-        background: url('/assets/images/trainer-images/maria_ericson_100.jpg') no-repeat center center;
+        background: url('../images/trainer-images/maria_ericson_100.jpg') no-repeat center center;
     }
 
     .trainer-image {
@@ -494,7 +494,7 @@ footer {
     }
 
     .about-image {
-        background: url(/assets/images/about/about_768.jpg) no-repeat center;
+        background: url('../images/about/about_768.jpg') no-repeat center;
         width: 100%;
         margin-top: 5vh;
     }
@@ -524,7 +524,7 @@ footer {
 
 @media screen and (max-width: 425px) {
     .hero-image {
-        background: url('/assets/images/hero_425.jpg') no-repeat center center;
+        background: url('../images/hero_425.jpg') no-repeat center center;
     }
 
     h2 {
@@ -613,7 +613,7 @@ footer {
     }
 
     .about-image {
-        background: url(/assets/images/about/about_425.jpg) no-repeat center;
+        background: url('../images/about/about_425.jpg') no-repeat center;
         height: 283px;
         margin-top: 2vh;
     }
