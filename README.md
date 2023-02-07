@@ -148,3 +148,43 @@ Bild av Monstera: https://www.pexels.com/sv-se/foto/kvinna-boja-ung-lugn-6311271
 Bild av SHVETS production: https://www.pexels.com/sv-se/foto/kvinna-kondition-traning-livsstil-6975238/
 
 Bild av Karolina Grabowska: https://www.pexels.com/sv-se/foto/natur-kvinna-frihet-koppla-av-4498313/
+
+Image by rawpixel.com
+
+
+
+Image by rawpixel.com
+Image by rawpixel.com
+
+<div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/yoga" title="yoga icons">Yoga icons created by Freepik - Flaticon</a>
+#e6d2ff
+#d5f0e1
+#a5f3ff
+
+<a href="https://www.freepik.com/free-photo/smiling-sports-woman-standing-with-arms-folded-looking-camera-isolated-white-wall_8473651.htm#query=yoga%20instructor&position=0&from_view=search&track=sph">Image by diana.grytsku</a> on Freepik
+
+<a href="https://www.freepik.com/free-photo/sport-wellbeing-active-lifestyle-concept-portrait-cheerful-attractive-asian-fitness-coach-female-athlete-introduce-demonstrate-product-workout-holding-something-hand_11162216.htm?query=yoga%20instructor#from_view=detail_alsolike">Image by benzoix</a> on Freepik
+
+<a href="https://www.freepik.com/free-photo/sportive-woman-with-dumbbells-sportswear-posing-white_8225221.htm#query=fitness%20girl&position=24&from_view=search&track=sph">Image by cookie_studio</a> on Freepik
+<a href="https://www.freepik.com/free-photo/smiling-young-spportswoman-shows-thumbs-up-motivated-fitness-woman-like-something-giving-compliment-recommending-sport-gym-white-background_23280366.htm#query=yoga&position=8&from_view=author">Image by cookie_studio</a> on Freepik
+
+<a href="https://www.freepik.com/free-photo/smiling-redhead-sportswoman-with-headphones-listening-music-doing-fitness-workout-holding-smartphone-hand-standing-against-white-background_24445872.htm#query=yoga&position=3&from_view=author">Image by cookie_studio</a> on Freepik
+
+<a href="https://www.freepik.com/free-photo/confident-sportswoman-white-sportsbra-holding-hands-waist-fitness-trainer-standing-power-pose-workout-gym-white-background_24482314.htm#query=fitness&position=2&from_view=search&track=sph">Image by cookie_studio</a> on Freepik
+
+Bild av Tima Miroshnichenko: https://www.pexels.com/sv-se/foto/man-kvinna-hangmatta-student-6582867/
+
+<a href="https://www.flaticon.com/free-icons/mandala" title="mandala icons">Mandala icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/mandala" title="mandala icons">Mandala icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/flower" title="flower icons">Flower icons created by Freepik - Flaticon</a>

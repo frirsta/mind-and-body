@@ -45,52 +45,54 @@
   <section>
     <div class="hero-section">
       <div class="hero-image">
-      </div>
-      <div class="cover-text">
-        <h1>MIND AND BODY
-          YOGA STUDIO</h1>
-        <h1>In the heart of Stockholm you will experience peace of mind and body</h1>
-        <a role="button" class="btn btn-outline-light" href="templates/classes.html">See Our Classes</a>
+        <div class="cover-text">
+          <h1>MIND AND BODY
+            YOGA STUDIO</h1>
+          <h1>In the heart of Stockholm you will experience peace of mind and body</h1>
+          <a role="button" class="btn btn-outline-light" href="templates/classes.html">See Our Classes</a>
+        </div>
       </div>
     </div>
   </section>
   <section class="classes-section">
-    <h1 class="home-title">Classes</h1>
+    <span class="text-muted classes-title">GET TO KNOW</span>
+    <h1 class="home-title">Our Classes</h1>
     <div class="home-classes-container">
       <div class="home-classes beginner">
         <div class="yoga-icon-title">
-          <img class="yoga-image" src="assets/images/classes_images/yoga_pose_4.png" alt="archer , pose , yoga icon">
-          <h2>Beginner Yoga</h2>
+          <div class="yoga-image yoga-image-one"></div>
+          <h3>Beginner Yoga</h3>
         </div>
-        <p>You will the fundamentals of Yoga. Jane goes through the benefits of yoga aswell as the history of Yoga.
+        <p>We recommend Beginner Yoga with Jane Johnson if this is is your first time taking a Yoga class. You
+          will the fundamentals of Yoga. Jane goes through the benefits of yoga aswell as the history of Yoga.
         </p>
         <a href="templates/classes.html" class="classes-link card-buttons"
           aria-label="Go to our classes and schedule page">Learn More <i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="home-classes advanced">
         <div class="yoga-icon-title">
-          <img class="yoga-image" src="assets/images/classes_images/yoga_pose_2.png"
-            alt="half , boat , pose , yoga icon">
-          <h2>Advanced Yoga</h2>
+<div class="yoga-image yoga-image-two"></div>
+          <h3>Advanced Yoga</h3>
         </div>
-        <p>She will push you to your limit. In
+        <p>For advanced classes we recommend this class width Susan Miranda. She will push you to your limit. In
           this class you will evolve your pranayama (breathwork) and asana (yoga poses).</p>
         <a href="templates/classes.html" class="classes-link card-buttons"
           aria-label="Go to our classes and schedule page">Learn More <i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="home-classes group">
         <div class="yoga-icon-title">
-          <img class="yoga-image" src="assets/images/classes_images/yoga_pose_3.png"
-            alt="king , dancer , pose , ii , yoga icon">
-          <h2>Group Yoga</h2>
+          <div class="yoga-image yoga-image-three"></div>
+          <h3>Group Yoga</h3>
         </div>
-        <p>If you and your friends are looking to relax, exercise and have fun this class is for you.</p>
+        <p>If you and your friends are looking to relax, exercise and have fun this class is for you. Anna
+          Alfred will teach you the fundamentals of yoga and she will teach basic yoga poses as well as
+          difficult ones.</p>
         <a href="templates/classes.html" class="classes-link card-buttons"
           aria-label="Go to our classes and schedule page">Learn More <i class="fa-solid fa-arrow-right"></i></a>
       </div>
     </div>
   </section>
-  <section class="trainer-section">
+  <section class="trainer-section" id="trainer-section">
     <span class="text-muted">Meet the Experts</span>
     <h1 class="home-title trainer-title">Yoga Instructor</h1>
     <div class="trainer-container">
@@ -99,7 +101,7 @@
         <div class="trainer-image-title">
           <div class="trainer-image-1 trainer-image"></div>
           <h3 class="trainer-name">Susan Miranda</h3>
-          <span class="text-muted trainer-instructor">Manager & Anvanced instructor</span>
+          <span class="text-muted trainer-instructor">Manager</span>
         </div>
 
       </div>
@@ -125,7 +127,7 @@
         <div class="trainer-image-title">
           <div class="trainer-image-4 trainer-image"></div>
           <h3 class="trainer-name">Maria Ericson</h3>
-          <span class="text-muted trainer-instructor">Advanced and beginner instructor</span>
+          <span class="text-muted trainer-instructor">Advanced instructor</span>
         </div>
 
       </div>
@@ -149,24 +151,28 @@
     </div>
   </section>
   <section class="newsletter-section">
-    <div class="background-image">
-      <div class="newsletter-text">
-        <h2>Subscribe to our Newsletter</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas.</p>
-        <form class="newsletter-form" action="#">
-          <input class="newsletter-input" type="email" name="newsletter" id="newsletter" placeholder="Enter your email">
-          <button class="subscribe-button orange-button" type="submit">Subscribe</button>
-        </form>
-      </div>
+  
+    <div class="newsletter-text">
+      <h2>Subscribe to our Newsletter</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas.</p>
+      <form class="newsletter-form" action="#">
+        <input class="newsletter-input" type="email" name="newsletter" id="newsletter" placeholder="Enter your email">
+        <button class="subscribe-button orange-button" type="submit">Subscribe</button>
+      </form>
     </div>
+    
+    <div class="background-image"></div>
   </section>
   <footer>
-    <a class="logo" href="index.html">Mind & Body</a>
-    <span class="text-muted footer-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem numquam, id debitis vel accusantium et aliquid alias cumque dolor ab, dolorem impedit laboriosam.</span>
     <div class="footer-content">
+      <div class="footer-content-logo">
+      <a class="logo" href="index.html">Mind & Body</a>
+      <span class="text-muted footer-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem numquam, id debitis vel accusantium et aliquid alias cumque dolor ab, dolorem impedit laboriosam.</span>
+    </div>
+    <div class="list-container">
       <ul class="page-links">
+        <h5>Mind & Body</h5>
         <li class="page-item">
-         
           <a class="page-link" href="index.html">Home</a>
         </li>
         <li class="page-item">
@@ -175,15 +181,23 @@
         <li class="page-item">
           <a class="page-link" href="templates/classes.html">Classes</a>
         </li>
+        <li class="page-item">
+          <a class="page-link" href="#trainer-section">Instructors</a>
+        </li>
       </ul>
       <ul class="page-links">
-        <li class="page-item">
-          <a class="page-link" href="#">Terms of Use</a>
-        </li>
+        <h5>Support</h5>
         <li class="page-item">
           <a class="page-link" href="templates/contact.html">Contact</a>
         </li>
+        <li class="page-item">
+          <a class="page-link" href="#">Privacy Policy</a>
+        </li>
+        <li class="page-item">
+          <a class="page-link" href="#">Terms of Use</a>
+        </li>
       </ul>
+    </div>
     </div>
     <div class="footer-bottom">
     <div class="horizontal-line"></div>
